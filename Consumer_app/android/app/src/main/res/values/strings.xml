@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Homeats</string>
+    <string name="server_client_id">538454994099-foodq9vn4a0s5f2e8clk82dcbqr1ugfk.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">3274996089446852</string>
+    <string name="fb_login_protocol_scheme">fb3274996089446852</string>
+</resources>
